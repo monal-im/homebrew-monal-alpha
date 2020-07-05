@@ -1,4 +1,4 @@
-cask 'monal.alpha' do
+cask 'monal-alpha' do
 	version :latest
 	sha256 :no_check
 
