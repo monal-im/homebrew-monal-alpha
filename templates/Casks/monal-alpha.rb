@@ -1,7 +1,8 @@
 cask 'monal-alpha' do
-	version <?=$version?>
+	version '<?=$version?>'
 
-	sha256 <?=$hash?>
+	sha256 '<?=$hash?>'
+
 
 	url 'https://www.eightysoft.de/monal/monal.tar'
 	name 'Monal.Alpha'
