@@ -1,14 +1,14 @@
-cask 'monal-alpha' do
-	version '<?=$version?>'
+cask "monal-alpha" do
+	version "<?=$version?>"
 
-	sha256 '<?=$hash?>'
+	sha256 "<?=$hash?>"
 
 
-	url 'https://www.eightysoft.de/monal/monal.tar'
-	name 'Monal.Alpha'
-	homepage 'https://github.com/tmolitor-stud-tu/monal.alpha'
+	url "https://www.eightysoft.de/monal/monal.tar"
+	name "Monal.Alpha"
+	homepage "https://github.com/tmolitor-stud-tu/monal.alpha"
 
-	depends_on macos: '>= :catalina'
+	depends_on macos: ">= :catalina"
 
-	app 'Monal.alpha.app'
+	app "Monal.alpha.app"
 end
