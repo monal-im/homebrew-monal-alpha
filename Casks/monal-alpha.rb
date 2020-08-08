@@ -1,14 +1,14 @@
-cask 'monal-alpha' do
-	version '1595411411'
+cask "monal-alpha" do
+	version "1596869746"
 
-	sha256 '1db94f73d0810e878cf6c96d09ebd61805863194efac9b5bf007d313334a5923'
+	sha256 "75959bf5632bc5ee5418b527c768bf145a74ba0ea4498230de479f4b96994563"
 
 
-	url 'https://www.eightysoft.de/monal/monal.tar'
-	name 'Monal.Alpha'
-	homepage 'https://github.com/tmolitor-stud-tu/monal.alpha'
+	url "https://www.eightysoft.de/monal/monal.tar"
+	name "Monal.Alpha"
+	homepage "https://github.com/tmolitor-stud-tu/monal.alpha"
 
-	depends_on macos: '>= :catalina'
+	depends_on macos: ">= :catalina"
 
-	app 'Monal.alpha.app'
+	app "Monal.alpha.app"
 end
