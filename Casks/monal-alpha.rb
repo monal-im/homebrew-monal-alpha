@@ -1,7 +1,7 @@
 cask "monal-alpha" do
-	version "1597233095"
+	version "1597296504"
 
-	sha256 "dc1073aa06d25520545756da95493be289f6eb5273bf7db161095db6c947b334"
+	sha256 "1dba252278027a76b697c791c936bff463488892cdab50b985a2b47fe31a3176"
 
 
 	url "https://www.eightysoft.de/monal/monal.tar"
