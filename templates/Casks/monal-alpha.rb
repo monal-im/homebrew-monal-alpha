@@ -8,7 +8,7 @@ cask "monal-alpha" do
 	name "Monal.Alpha"
 	homepage "https://github.com/tmolitor-stud-tu/monal.alpha"
 
-	depends_on macos: ">= :catalina"
+	depends_on macos: ">= :big_sur"
 
 	app "Monal.alpha.app"
 end
