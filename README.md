@@ -1,6 +1,6 @@
 # homebrew-monal-alpha
 
-> :warning: **This is our alpha cask repo**: Alpha builds are far aware from stable!
+> :warning: **This is our alpha cask repo**: Alpha builds are far away from stable!
 
 ## Usage
 ```
