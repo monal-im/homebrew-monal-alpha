@@ -1,7 +1,7 @@
 cask "monal-alpha" do
-	version "<?=$version?>"
+	version "#timestampAsVersion#"
 
-	sha256 "<?=$hash?>"
+	sha256 "#macosHash#"
 
 
 	url "https://downloads.monal-im.org/monal-im/alpha/macOS/Monal.tar"
