@@ -4,7 +4,7 @@ cask "monal-alpha" do
 	sha256 "#macosHash#"
 
 
-	url "https://downloads.monal-im.org/monal-im/alpha/macOS/Monal.tar"
+	url "https://downloads.monal-im.org/monal-im/alpha/macOS/Monal.alpha.tar"
 	name "Monal.Alpha"
 	homepage "https://github.com/tmolitor-stud-tu/monal.alpha"
 
