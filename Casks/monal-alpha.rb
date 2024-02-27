@@ -1,7 +1,7 @@
 cask "monal-alpha" do
-	version "1709062664"
+	version "1709073455"
 
-	sha256 "7a43cda2e98cbd950f50aed9739725817974397403862305a269c6b294cfca8e"
+	sha256 "7c3a95ba8922fb54f5ab9244137c303e30d0d439d463cbc10b1b389c01fbff48"
 
 
 	url "https://downloads.monal-im.org/monal-im/alpha/macOS/Monal.alpha.tar"
