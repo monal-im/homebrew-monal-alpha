@@ -1,10 +1,10 @@
 cask "monal-alpha" do
-	version "1779640968"
+	version "1779913775"
 
-	sha256 "f09d00bfc52c62b42f3bf1282438a64c81128e9352a0f62f6b90b79a363c833e"
+	sha256 "beca7f8fa0571de41b62643e025461d3255f29268c995b8c88b0cc9de4ac68d8"
 
 
-	url "https://downloads.monal-im.org/monal-im/alpha/macOS/Monal.Alpha.tar?dummy=1779640968"
+	url "https://downloads.monal-im.org/monal-im/alpha/macOS/Monal.Alpha.tar?dummy=1779913775"
 	name "Monal.Alpha"
 	homepage "https://github.com/tmolitor-stud-tu/monal.alpha"
 
