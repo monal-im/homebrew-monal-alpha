@@ -5,5 +5,6 @@
 ## Usage
 ```
 brew tap monal-im/homebrew-monal-alpha
+brew trust --cask monal-im/monal-alpha/monal-alpha
 brew install --cask monal-alpha
 ```
